@@ -1,16 +1,5 @@
 #----------------------------------------------------------------------------------------------
 # Quiz App
-#Entwickle eine Python-Anwendung, die eine grafische Benutzeroberfläche (GUI) mit Tkinter erstellt. Diese Anwendung soll ein einfaches Quiz mit Fragen und mehreren Antwortmöglichkeiten über Radiobuttons darstellen. Zudem soll sie die Möglichkeit bieten, die Ergebnisse in einer Datei zu speichern und frühere Ergebnisse zu laden. Die Anwendung soll auch Threads verwenden, um den Timer für jede Frage zu handhaben, ohne die GUI zu blockieren.
-#
-# a) Definiere ein Python-Modul quiz_app.py, das eine Klasse QuizApp enthält. Diese Klasse soll das Hauptfenster mit einem Titel, einem Bereich für die Frage, Radiobuttons für die Antwortmöglichkeiten, einem Timer-Label, einem "Nächste Frage"-Button und einem "Ergebnisse speichern"-Button erstellen.
-#
-# b) Implementiere die Funktionalität, um Fragen und Antwortmöglichkeiten anzuzeigen. Verwende für jede Frage ein Dictionary, das die Frage und eine Liste von Antwortmöglichkeiten enthält. Die richtige Antwort soll ebenfalls in diesem Dictionary markiert sein.
-#
-# c) Füge einen Timer hinzu, der für jede Frage 30 Sekunden läuft. Verwende Threads, um den Timer parallel zur GUI laufen zu lassen, sodass die GUI während des Countdowns reaktionsfähig bleibt.
-#
-# d) Implementiere Eventhandler für die "Nächste Frage"- und "Ergebnisse speichern"-Buttons. Der "Nächste Frage"-Button soll die nächste Frage laden und den Timer zurücksetzen. Der "Ergebnisse speichern"-Button soll die Ergebnisse in einer Datei speichern und die Möglichkeit bieten, diese Ergebnisse bei einem späteren Programmstart zu laden.
-#
-# e) Verwende Dialogboxen, um den Pfad für das Speichern und Laden der Ergebnisse auszuwählen. 
 #
 # Autor: Helena Rusch
 # Letzte Änderung: 04.07.2025

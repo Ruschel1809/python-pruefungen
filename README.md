@@ -1,7 +1,7 @@
 # Python Prüfungen
 
 Teilprüfungen aus dem Python-Modul meiner Weiterbildung zur
-**KI-Entwicklung** (Juni – Dezember 2025).
+**KI-Entwicklung**.
 
 ## Prüfungsübersicht
 
